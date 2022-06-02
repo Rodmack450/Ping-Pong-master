@@ -1,3 +1,3 @@
 # Ping-Pong-master
- Ping Pong Game
+ Ping Pong Game.
  Designed and implement by Rodolphe Nemr.
